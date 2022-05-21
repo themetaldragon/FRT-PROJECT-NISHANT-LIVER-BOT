@@ -28,9 +28,9 @@ This FAQ chatbot provides useful information about Liver to its user's and also 
 ![Azure-static-liver-bot7](https://user-images.githubusercontent.com/91829288/169660943-e7cb09e0-5e01-4fcc-ae21-83be5fac1098.png)
 
 
-**Project Demo URL:** 👉 icy-river-0b458e010.1.azurestaticapps.net
+**Project Demo URL:** 👉 https://icy-river-0b458e010.1.azurestaticapps.net
 
-Email ID: nishantcse2001@gmail.com
+**Email ID:** nishantcse2001@gmail.com
 
 If you have any queries and suggestions feel free to contact me on provided email id and on GitHub!!!!
 
