@@ -17,3 +17,23 @@ Nishant Kumar Dubey
 **Project Description:**
 So, to solve all the basic queries related to Liver. I will be making an FAQ chatbot which can solve all the queries like-What does my liver do, How can I keep my liver healthy, symptoms of possible liver diseases, etc. I will be making an FAQ chatbot using Azure QnA Maker which is an Azure cognitive service, Azure Bot Service and Static Web Apps service.
 This FAQ chatbot provides useful information about Liver to its user's and also will be available 24x7 without any complaint.
+
+### Screenshots of working project:
+![Azure-static-liver-bot4](https://user-images.githubusercontent.com/91829288/169660886-48f28b8f-f594-4fbd-ab04-2d0c561d2962.png)
+![Azure-static-liver-bot5](https://user-images.githubusercontent.com/91829288/169660899-06bfab26-3d24-4d5d-b17d-95b30d4c0759.png)
+![QnA-maker-liver-bot2](https://user-images.githubusercontent.com/91829288/169660920-d0f554b2-6b0b-4620-a39f-a11c8e430cd8.png)
+![QnA-maker-liver-bot3](https://user-images.githubusercontent.com/91829288/169660927-a6c12063-4d0b-49dc-92c9-20384bad7abe.png)
+![Test-in-web-chat-liver-bot1](https://user-images.githubusercontent.com/91829288/169660936-afbf11a2-7a16-4eff-b43f-0c8bdda1d881.png)
+![Azure-static-liver-bot6](https://user-images.githubusercontent.com/91829288/169660940-a6dd02c0-1e97-4692-9f22-4976d0a4f0af.png)
+![Azure-static-liver-bot7](https://user-images.githubusercontent.com/91829288/169660943-e7cb09e0-5e01-4fcc-ae21-83be5fac1098.png)
+![Background(Liv)](https://user-images.githubusercontent.com/91829288/169660950-1ce93eaf-c5af-43e2-9798-f65b7573b17a.jpg)
+
+
+**Project Demo URL:**👉 https://black-mud-04a9e3610.1.azurestaticapps.net
+
+Email ID: nishantcse2001@gmail.com
+
+If you have any queries and suggestions feel free to contact me on provided email id and on GitHub!!!!
+
+Thank you Future Ready Talent Program for providing me this great opportunity :))
+
