@@ -26,10 +26,12 @@ This FAQ chatbot provides useful information about Liver to its user's and also 
 ![Test-in-web-chat-liver-bot1](https://user-images.githubusercontent.com/91829288/169660936-afbf11a2-7a16-4eff-b43f-0c8bdda1d881.png)
 ![Azure-static-liver-bot6](https://user-images.githubusercontent.com/91829288/169660940-a6dd02c0-1e97-4692-9f22-4976d0a4f0af.png)
 ![Azure-static-liver-bot7](https://user-images.githubusercontent.com/91829288/169660943-e7cb09e0-5e01-4fcc-ae21-83be5fac1098.png)
-![Background(Liv)](https://user-images.githubusercontent.com/91829288/169660950-1ce93eaf-c5af-43e2-9798-f65b7573b17a.jpg)
 
 
-**Project Demo URL:**👉 https://black-mud-04a9e3610.1.azurestaticapps.net
+
+
+
+**Project Demo URL:**👉 icy-river-0b458e010.1.azurestaticapps.net
 
 Email ID: nishantcse2001@gmail.com
 
